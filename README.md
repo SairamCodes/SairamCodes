@@ -45,7 +45,7 @@
         self.motto = "Build. Learn. Repeat."</code></pre>
     </td>
     <td width="40%" valign="top" align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f61b.gif" width="90%" alt="AI Illustration"/>
+      <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="90%" alt="AI Illustration"/>
     </td>
   </tr>
 </table>
