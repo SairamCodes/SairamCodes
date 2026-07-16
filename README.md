@@ -33,9 +33,7 @@
 <table border="0" width="100%">
   <tr>
     <td width="60%" valign="top">
-
-```python
-class AIEngineer:
+      <pre><code class="language-python">class AIEngineer:
     def __init__(self):
         self.name = "Gadde Sai Ram"
         self.role = "AI Engineering Student"
@@ -44,14 +42,12 @@ class AIEngineer:
         self.database = ["SQLite", "MySQL"]
         self.learning = ["Machine Learning", "Deep Learning", "Generative AI"]
         self.goal = "Build AI products that solve real-world problems."
-        self.motto = "Build. Learn. Repeat."
-```
-
-</td>
-<td width="40%" valign="top" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f61b.gif" width="90%" alt="AI Illustration"/>
-</td>
-</tr>
+        self.motto = "Build. Learn. Repeat."</code></pre>
+    </td>
+    <td width="40%" valign="top" align="center">
+      <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f61b.gif" width="90%" alt="AI Illustration"/>
+    </td>
+  </tr>
 </table>
 
 <br/>
@@ -124,7 +120,6 @@ class AIEngineer:
 <br/>
 
 ## 🐍 Contribution Snake
-
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/SairamCodes/SairamCodes/output/github-contribution-grid-snake-dark.svg" width="100%"/>
