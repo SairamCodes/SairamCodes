@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=280&section=header&text=GADDE%20SAI%20RAM&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineering%20Student%20%7C%20Python%20Developer&descAlignY=58&descSize=20" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=800&height=150&lines=Hi+%F0%9F%91%8B+I'm+Gadde+Sai+Ram;AI+Engineering+Student;Python+%7C+FastAPI+%7C+SQLAlchemy;Building+Real-World+AI+Projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2800&pause=900&color=58A6FF&background=00000000&center=true&vCenter=true&repeat=true&width=700&height=70&separator=%7C&lines=Hi+%F0%9F%91%8B+I'm+Gadde+Sai+Ram;AI+Engineering+Student;Python+%7C+FastAPI+%7C+SQLAlchemy;Building+Real-World+AI+Projects" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -108,6 +108,13 @@ class AIEngineer:
 <br/>
 
 ## 🐍 Contribution Snake
+
+<!--
+  Renders once the "snake" GitHub Action has run on the SairamCodes/SairamCodes
+  profile repo (it publishes this SVG to the "output" branch). Add a workflow
+  using Platane/snk@v3 targeting github-contribution-grid-snake-dark.svg,
+  then this image will populate automatically.
+-->
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/SairamCodes/SairamCodes/output/github-contribution-grid-snake-dark.svg" width="100%"/>
