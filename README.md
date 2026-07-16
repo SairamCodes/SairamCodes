@@ -96,28 +96,18 @@ class AIEngineer:
 
 ## 📊 GitHub Stats
 
-```md
-https://github-readme-stats.vercel.app/api?username=SairamCodes&show_icons=true&theme=tokyonight
-https://github-readme-stats.vercel.app/api/top-langs/?username=SairamCodes&layout=compact&theme=tokyonight
-https://streak-stats.demolab.com?user=SairamCodes&theme=tokyonight
-```
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SairamCodes&show_icons=true&theme=tokyonight" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SairamCodes&layout=compact&theme=tokyonight" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" width="70%"/>
+  <img src="https://streak-stats.demolab.com?user=SairamCodes&theme=tokyonight" width="70%"/>
 </p>
 
 <br/>
 
 ## 🐍 Contribution Snake
-
-```md
-https://raw.githubusercontent.com/SairamCodes/SairamCodes/output/github-contribution-grid-snake-dark.svg
-```
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/SairamCodes/SairamCodes/output/github-contribution-grid-snake-dark.svg" width="100%"/>
