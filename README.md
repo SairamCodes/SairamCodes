@@ -49,7 +49,7 @@ class AIEngineer:
 
 </td>
 <td width="40%" valign="top" align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="80%" alt="AI Illustration"/>
+<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f61b.gif" width="90%" alt="AI Illustration"/>
 </td>
 </tr>
 </table>
@@ -80,17 +80,33 @@ class AIEngineer:
 
 ## 🌟 Featured Projects
 
-<div align="center">
-
-| 🚀 Project | 📝 Description |
-|:---|:---|
-| 🩺 **SmartHealth** | AI Healthcare Assistant |
-| ⚡ **FastAPI-Learning** | Backend APIs |
-| 🗄️ **SQLAlchemy-Practice** | ORM Journey |
-| 💻 **DSA_Practice** | Daily Coding |
-| 🏆 **DSA-League** | Full Stack Platform |
-
-</div>
+<table border="0" width="100%">
+  <tr>
+    <td align="center" width="33%">
+      <h3>🏥 SmartHealth</h3>
+      <sub>AI Healthcare Assistant</sub>
+    </td>
+    <td align="center" width="33%">
+      <h3>⚡ FastAPI Learning</h3>
+      <sub>Production APIs</sub>
+    </td>
+    <td align="center" width="33%">
+      <h3>🗄️ SQLAlchemy</h3>
+      <sub>Database Mastery</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <h3>💻 DSA_Practice</h3>
+      <sub>Daily Coding</sub>
+    </td>
+    <td align="center" width="33%">
+      <h3>🏆 DSA-League</h3>
+      <sub>Full Stack Platform</sub>
+    </td>
+    <td></td>
+  </tr>
+</table>
 
 <br/>
 
