@@ -22,3 +22,8 @@ AI Engineering Student
 
 Become an AI Engineer by building real-world projects.
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SairamCodes&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+</p>
