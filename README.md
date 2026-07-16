@@ -1,10 +1,27 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00C9FF,100:8E2DE2&text=Sairam&fontColor=ffffff&fontSize=70&fontAlignY=38&desc=AI%20Engineering%20Student&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=280&section=header&text=SAIRAM&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Python%20Developer&descAlignY=60"/>
 </p>
+
+<h3 align="center">
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Sairam;AI+Engineering+Student;Python+|+FastAPI+|+SQLAlchemy;Building+Real-World+AI+Projects)](https://git.io/typing-svg)
+
+</h3>
 
 <p align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Sairam;AI+Engineering+Student;Python+|+FastAPI+|+SQLAlchemy;Building+Real-World+AI+Projects)](https://git.io/typing-svg)
+<a href="https://www.linkedin.com/in/sairam-gadde?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:sairamgadde63@outlook.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://leetcode.com/u/SairamCode999/">
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
+</a>
 
 </p>
 
@@ -13,27 +30,31 @@
 ## 👨‍💻 About Me
 
 ```python
-class Sairam:
+class AIEngineer:
 
-    role = "AI Engineering Student"
+    def __init__(self):
 
-    language = "Python"
+        self.name="Sairam"
 
-    backend = "FastAPI"
+        self.role="AI Engineer"
 
-    database = "SQLAlchemy ORM"
+        self.languages=[
+            "Python",
+            "Java"
+        ]
 
-    dsa = "Java"
+        self.backend=[
+            "FastAPI",
+            "SQLAlchemy"
+        ]
 
-    learning = [
-        "Machine Learning",
-        "Deep Learning",
-        "Generative AI"
-    ]
+        self.learning=[
+            "Machine Learning",
+            "Deep Learning",
+            "Generative AI"
+        ]
 
-    goal = "Become an AI Engineer"
-
-print("Build. Learn. Repeat.")
+        self.goal="Build AI products that impact millions."
 ```
 
 ---
@@ -48,15 +69,17 @@ print("Build. Learn. Repeat.")
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-
-## 🚀 Featured Projects
-
-- 🏥 SmartHealth
-- ⚡ FastAPI-Learning
-- 🗄️ SQLAlchemy-Practice
-- 💻 DSA_Practice
-- 🏆 DSA-League
-
+| 🚀 Project | Description |
+|------------|-------------|
+| 🏥 SmartHealth | AI Healthcare Assistant |
+| ⚡ FastAPI Learning | Backend APIs |
+| 🗄 SQLAlchemy | ORM Practice |
+| 💻 DSA Practice | Daily Coding |
+| 🏆 DSA League | Full Stack Project |
 ---
 
-> **"Build. Learn. Repeat."**
+<p align="center">
+
+⭐ Building the future with AI ⭐
+
+</p>
