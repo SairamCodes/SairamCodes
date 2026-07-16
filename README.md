@@ -1,60 +1,146 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=280&section=header&text=GADDE%20SAI%20RAM&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineering%20Student%20%7C%20Python%20Developer&descAlignY=58&descSize=20" width="100%"/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=800&height=150&lines=Hi+%F0%9F%91%8B+I'm+Gadde+Sai+Ram;AI+Engineering+Student;Python+%7C+FastAPI+%7C+SQLAlchemy;Building+Real-World+AI+Projects" alt="Typing SVG" />
+</a>
+
+<br/>
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=280&section=header&text=GADDE%20SAI%20RAM&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineering%20Student%20%7C%20Python%20Developer&descAlignY=60" width="100%"/>
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://leetcode.com" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="mailto:your-email@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 </p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Gadde+Sai+Ram;AI+Engineering+Student;Python+%7C+FastAPI+%7C+SQLAlchemy;Building+Real-World+AI+Projects" />
-</p>
-<p align="center">
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://leetcode.com"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-<a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
----
-🤖 About Me
-> **AI Engineer Profile**
-```
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+</div>
+
+<br/>
+
+## 🧠 About Me
+
+<table border="0" width="100%">
+  <tr>
+    <td width="60%" valign="top">
+
+```python
 class AIEngineer:
     def __init__(self):
         self.name = "Gadde Sai Ram"
         self.role = "AI Engineering Student"
-        self.languages = ["Python","Java"]
-        self.backend = ["FastAPI","SQLAlchemy ORM"]
-        self.database = ["SQLite","MySQL"]
-        self.learning = [
-            "Machine Learning",
-            "Deep Learning",
-            "Generative AI"
-        ]
+        self.languages = ["Python", "Java"]
+        self.backend = ["FastAPI", "SQLAlchemy ORM"]
+        self.database = ["SQLite", "MySQL"]
+        self.learning = ["Machine Learning", "Deep Learning", "Generative AI"]
         self.goal = "Build AI products that solve real-world problems."
         self.motto = "Build. Learn. Repeat."
 ```
+
+</td>
+<td width="40%" valign="top" align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="80%" alt="AI Illustration"/>
+</td>
+</tr>
+</table>
+
+<br/>
+
+## ⚙️ Tech Stack
+
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,fastapi,mysql,sqlite,git,github,vscode" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
----
-🚀 Featured Projects
-Project	Description
-🏥 SmartHealth	AI Healthcare Assistant
-⚡ FastAPI-Learning	Backend APIs
-🗄 SQLAlchemy-Practice	ORM Practice
-💻 DSA_Practice	Daily Coding
-🏆 DSA-League	Full Stack DSA Platform
----
-📊 GitHub Stats
-Replace `YOUR_USERNAME` with your username.
+
+<br/>
+
+## 🚀 Current Learning
+
+<p align="center">
+  ✅ Java DSA &nbsp;&nbsp; ✅ FastAPI &nbsp;&nbsp; ✅ SQLAlchemy ORM &nbsp;&nbsp; 🔄 Machine Learning &nbsp;&nbsp; 🔄 Deep Learning &nbsp;&nbsp; 🔄 Generative AI
+</p>
+
+<br/>
+
+## 🌟 Featured Projects
+
+<div align="center">
+
+| 🚀 Project | 📝 Description |
+|:---|:---|
+| 🩺 **SmartHealth** | AI Healthcare Assistant |
+| ⚡ **FastAPI-Learning** | Backend APIs |
+| 🗄️ **SQLAlchemy-Practice** | ORM Journey |
+| 💻 **DSA_Practice** | Daily Coding |
+| 🏆 **DSA-League** | Full Stack Platform |
+
+</div>
+
+<br/>
+
+## 📊 GitHub Stats
+
+> Replace `YOUR_USERNAME` below with your GitHub username after deployment.
+
 ```md
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight
+https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight
+https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight
 ```
----
-🐍 Snake
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" width="70%"/>
+</p>
+
+<br/>
+
+## 🐍 Contribution Snake
+
 ```md
 https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg
 ```
----
+
 <p align="center">
-⭐ <b>Building the Future with AI</b> ⭐
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </p>
+
+<br/>
+
+## 💬 Quote
+
+<div align="center">
+
+> *"Small commits every day create big careers."*
+
+### ⭐ Building the Future with AI ⭐
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=120&section=footer"/>
+
+</div>
