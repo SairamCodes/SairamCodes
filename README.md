@@ -11,13 +11,13 @@
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 <p align="center">
-  <a href="https://linkedin.com" target="_blank">
+  <a href="https://www.linkedin.com/in/sairam-gadde?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://leetcode.com" target="_blank">
+  <a href="https://leetcode.com/u/SairamCode999/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
-  <a href="mailto:your-email@gmail.com" target="_blank">
+  <a href="mailto:sairamgadde63@outlook.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
@@ -96,17 +96,15 @@ class AIEngineer:
 
 ## 📊 GitHub Stats
 
-> Replace `YOUR_USERNAME` below with your GitHub username after deployment.
-
 ```md
-https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight
-https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight
-https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight
+https://github-readme-stats.vercel.app/api?username=SairamCodes&show_icons=true&theme=tokyonight
+https://github-readme-stats.vercel.app/api/top-langs/?username=SairamCodes&layout=compact&theme=tokyonight
+https://streak-stats.demolab.com?user=SairamCodes&theme=tokyonight
 ```
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SairamCodes&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SairamCodes&layout=compact&theme=tokyonight" width="48%"/>
 </p>
 
 <p align="center">
@@ -118,11 +116,11 @@ https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight
 ## 🐍 Contribution Snake
 
 ```md
-https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg
+https://raw.githubusercontent.com/SairamCodes/SairamCodes/output/github-contribution-grid-snake-dark.svg
 ```
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <img src="https://raw.githubusercontent.com/SairamCodes/SairamCodes/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </p>
 
 <br/>
