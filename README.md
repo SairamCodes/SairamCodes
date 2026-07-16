@@ -97,8 +97,8 @@ class AIEngineer:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SairamCodes&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SairamCodes&layout=compact&theme=tokyonight" width="48%"/>
+  <img src="https://raw.githubusercontent.com/SairamCodes/SairamCodes/main/profile/stats.svg" width="48%"/>
+  <img src="https://raw.githubusercontent.com/SairamCodes/SairamCodes/main/profile/top-langs.svg" width="48%"/>
 </p>
 
 <p align="center">
